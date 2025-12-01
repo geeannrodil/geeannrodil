@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**geeannrodil/geeannrodil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Gee Ann M. Rodil** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Education
+- **New Era University** (2024-Present)
+
+### Certifications
+- SQL and Relational Databases 101 – IBM (CognitiveClass)
+- https://courses.cognitiveclass.ai/certificates/ba1c9246f2cf4787ab1b3f7a5140d433#
+
+### Skillsets
+- SQL
+- HTML
+- CSS
+- Java
